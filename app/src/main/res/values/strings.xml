@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location App</string>
+    <string name="permission_not_granted">You need to grant the app permission to see your location first.</string>
+    <string name="grant_permission">Grant Permission</string>
+</resources>
